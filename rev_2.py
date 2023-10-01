@@ -28,5 +28,6 @@ def main():
     print(f"b is {b}")
     b = copy.copy(a)
     print(f"b is {b}")
+    print(f"b is {b}")
           
 if __name__ == "__main__":main()
